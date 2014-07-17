@@ -1,0 +1,6 @@
+language: python
+python:
+  - "2.7"
+before_install:
+  - bash validator_setup.sh
+script: python googletransitdatafeed/python/feedvalidator.py --output=CONSOLE gtfs.zip
