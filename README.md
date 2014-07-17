@@ -1,6 +1,8 @@
 # gtfs
 for CARTA in Chattanooga, TN
 
+[![](https://travis-ci.org/gocarta/gtfs.svg)](https://travis-ci.org/gocarta/gtfs)
+
 GTFS is the General Transit Feed Specification, a data standard for describing public transit routes and schedules
 
 ## about
