@@ -1,0 +1,7 @@
+language: python
+python:
+  - "2.7"
+before_install:
+  - bash validator_setup.sh
+install: "pip install pytz==2014.4"
+script: python googletransitdatafeed/python/feedvalidator.py --output=CONSOLE gtfs.zip
