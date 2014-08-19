@@ -19,4 +19,3 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 7,1,7,CHATTANOOGA HOUSING AUTHORITY,,3,,FFFFFF,000000
 8,1,8,EASTDALE,,3,,FFFFFF,000000
 9,1,9,EAST LAKE,,3,,FFFFFF,000000
-9999,1,9999,,,3,,FFFFFF,000000
