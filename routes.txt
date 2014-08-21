@@ -14,8 +14,6 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 33,1,33,DOWNTOWN SHUTTLE,,3,,,
 34,1,34,NORTH SHORE SHUTTLE,,3,,,
 4,1,4,EASTGATE/HAMILTON PL,,3,,EE1D23,000000
-5,1,5,EASTGATE,,3,,,
-6,1,6,Hamilton Place,,3,,,
 7,1,7,CHATTANOOGA HOUSING AUTHORITY,,3,,E18E17,000000
 8,1,8,EASTDALE,,3,,FFDC01,000000
 9,1,9,EAST LAKE,,3,,A6CE39,000000
